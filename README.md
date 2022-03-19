@@ -9,7 +9,7 @@ The improper construction of objects is not the fault of the creator. Without th
 
 The primary places the user is impacted is in non-standard rotations, improper flag setting, and wrong offsets. Non-standard rotation affects less-than-quarter-tile scenery in that variants of the same scenery, such as different heights of corner pole, must be rotated to connect to each other. Improper flag setting affects how mirror code works, and custom scenery users are limited by the scenery being improperly mirrored. Improper offsets are a major source of scenery versioning, and having a definitive good version prevents the accidental use of known bad versions.
 
-Along with fixing the rotation and flags of objects so they mirror properly, this project has the opportunity to tweak other aspects of custom scenery:
+Along with fixing the rotation, flags, and offsets, this project has the opportunity to tweak other aspects of custom scenery:
 - Standardize placement cursor
 - Reduce glitching of less-than-quarter tile and less-than-full-tile scenery
 - Standardize naming
