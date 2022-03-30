@@ -1,0 +1,33 @@
+{
+    "id": "nedesigns.scenery_small.block.brick.quarter_curved",
+    "authors": ["Simon Foster", "ToonTowner"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "originalId":"09F55901|XXBQBR24|DE1DD201",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 4,
+        "removalPrice": -3,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 8,
+        "shape": "1/4+D",
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -16, "y": -15 },
+        { "path": "images/1.png", "x": -6, "y": -15 },
+        { "path": "images/2.png", "x": -16, "y": -11 },
+        { "path": "images/3.png", "x": -16, "y": -15 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Brick Base Block"
+        }
+    }
+}
