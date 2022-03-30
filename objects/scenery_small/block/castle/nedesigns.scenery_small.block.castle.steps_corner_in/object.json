@@ -1,12 +1,12 @@
 {
-    "id": "ne.scenery_small.blocks.brick.quarter_round",
+    "id": "nedesigns.scenery_small.block.castle.steps_corner_in",
     "authors": ["Simon Foster", "ToonTowner"],
     "version": "1.0",
     "sourceGame": "custom",
-    "originalId":"09F55901|XXBQBR24|DE1DD201",
+    "originalId":"09F55701|XXSTCC03|42A01CC7",
     "objectType": "scenery_small",
     "properties": {
-        "price": 4,
+        "price": 5,
         "removalPrice": -3,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 8,
@@ -21,13 +21,13 @@
     },
     "images": [
         { "path": "images/0.png", "x": -16, "y": -15 },
-        { "path": "images/1.png", "x": -6, "y": -15 },
-        { "path": "images/2.png", "x": -16, "y": -11 },
+        { "path": "images/1.png", "x": -16, "y": -15 },
+        { "path": "images/2.png", "x": -16, "y": -9 },
         { "path": "images/3.png", "x": -16, "y": -15 }
     ],
     "strings": {
         "name": {
-            "en-GB": "Brick Base Block"
+            "en-GB": "Castle Steps"
         }
     }
 }

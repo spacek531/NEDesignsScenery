@@ -1,16 +1,16 @@
 {
-    "id": "ne.scenery_small.blocks.marble.full",
-    "authors": ["Simon Foster", "ToonTowner"],
+    "id": "nedesigns.scenery_small.block.brick.quarter_diagonal",
+    "authors": ["Simon Foster", "Kumba"],
     "version": "1.0",
     "sourceGame": "custom",
-    "originalId":"09F55701|XXBBMC02|09F79167",
+    "originalId":"09F55901|1KBRKDIG|1ADE6FCB",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 4,
+        "removalPrice": -3,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 8,
-        "shape": "4/4",
+        "shape": "1/4+D",
         "sceneryGroup": "rct2.scenery_group.scgwalls",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "isRotatable": true,
@@ -20,14 +20,14 @@
         "hasNoSupports": true
     },
     "images": [
-        { "path": "images/0.png", "x": -32, "y": -11 },
-        { "path": "images/0.png", "x": -32, "y": -11 },
-        { "path": "images/0.png", "x": -32, "y": -11 },
-        { "path": "images/0.png", "x": -32, "y": -11 }
+        { "path": "images/0.png", "x": -16, "y": -15 },
+        { "path": "images/1.png", "x": 0, "y": -15 },
+        { "path": "images/2.png", "x": -16, "y": -8 },
+        { "path": "images/3.png", "x": -16, "y": -15 }
     ],
     "strings": {
         "name": {
-            "en-GB": "Marble Base Block"
+            "en-GB": "Brick Base Block"
         }
     }
 }
