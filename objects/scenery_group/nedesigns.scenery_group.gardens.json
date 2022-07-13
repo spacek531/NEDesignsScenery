@@ -7,6 +7,7 @@
   "objectType": "scenery_group",
   "properties": {
     "entries": [
+	"nedesigns.scenery_small.garden.tulip_quarter_square",
       "nedesigns.scenery_small.shrub.bromeliad",
       "nedesigns.scenery_small.shrub.jungle_flower",
       "rct2.scenery_small.tjf",
@@ -22,6 +23,7 @@
 	"rct2.scenery_small.tdm",
 	"rct2.scenery_small.tsd",
 	"rct2.scenery_small.tcb",
+	"rct2.scenery_small.tck",
       "rct2.scenery_wall.whg",
       "rct2.scenery_wall.whgg",
       "rct2.scenery_wall.wch",
