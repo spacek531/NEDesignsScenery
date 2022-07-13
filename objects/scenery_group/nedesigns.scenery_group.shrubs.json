@@ -16,12 +16,14 @@
       "rct2.scenery_small.tsh5",
       "rct2.scenery_small.tsh2",
       "rct2.scenery_small.tsh3",
+	"nedesigns.scenery_small.shrub.fruit_bush_light",
+	"nedesigns.scenery_small.shrub.fruit_bush_dark",
       "rct2.scenery_small.tsh4",
       "rct2.scenery_small.tsh1",
-      "rct2.scenery_small.tjb1",
       "rct2.scenery_small.tjb2",
       "rct2.scenery_small.tjb4",
       "rct2.scenery_small.tjb3",
+	"rct2.scenery_small.tjb1",
       "nedesigns.scenery_small.shrub.bromeliad",
       "nedesigns.scenery_small.shrub.jungle_flower",
       "rct2.scenery_small.tjf",
@@ -48,8 +50,7 @@
       "rct2.scenery_wall.whg",
       "rct2.scenery_wall.whgg",
       "rct2.scenery_wall.wch",
-      "rct2.scenery_wall.wchg",
-      "DPCAS079"
+      "rct2.scenery_wall.wchg"
     ],
     "priority": 2
     },
