@@ -1,0 +1,46 @@
+{
+  "id": "nedesigns.scenery_group.gardens",
+  "authors": ["nedesigns"],
+  "version": "1.0",
+  "originalId": "0A188F99|NEGRDNS|B460E84E",
+  "sourceGame": ["custom"],
+  "objectType": "scenery_group",
+  "properties": {
+    "entries": [
+      "nedesigns.scenery_small.shrub.bromeliad",
+      "nedesigns.scenery_small.shrub.jungle_flower",
+      "rct2.scenery_small.tjf",
+      "rct2.scenery_small.ts4",
+	"rct2.scenery_small.ts5",
+      "rct2.scenery_small.ts3",
+      "rct2.scenery_small.torn1",
+      "rct2.scenery_small.torn2",
+	"rct2.scenery_small.ts6",
+	"rct2.scenery_small.tal",
+	"rct2.scenery_small.tsq",
+	"rct2.scenery_small.tht",
+	"rct2.scenery_small.tdm",
+	"rct2.scenery_small.tsd",
+	"rct2.scenery_small.tcb",
+	"rct2.scenery_small.tst4",
+	"rct2.scenery_small.tst5",
+	"rct2.scenery_small.tst3",
+	"rct2.scenery_small.tst2",
+	"rct2.scenery_small.tst1",
+	"rct2.scenery_small.tms1",
+	"rct2.scenery_small.beanst1",
+	"rct2.scenery_small.beanst2",
+      "rct2.scenery_wall.whg",
+      "rct2.scenery_wall.whgg",
+      "rct2.scenery_wall.wch",
+      "rct2.scenery_wall.wchg"
+    ],
+    "priority": 3
+    },
+  "images": ["$RCT2:OBJDATA/SCGGARDN.DAT[0..1]"],
+  "strings": {
+    "name": {
+      "en-GB": "Gardens (Classic)"
+    }
+  }
+}
