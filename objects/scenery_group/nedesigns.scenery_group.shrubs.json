@@ -35,10 +35,15 @@
       "nedesigns.scenery_small.shrub.cycad",
       "rct2.scenery_small.tsc",
       "rct2.scenery_small.tbc",
-      "rct2.scenery_wall.whg",
-      "rct2.scenery_wall.whgg",
-      "rct2.scenery_wall.wch",
-      "rct2.scenery_wall.wchg"
+      "nedesigns.scenery_small.shrub.mushrooms",
+	"rct2.scenery_small.tst4",
+	"rct2.scenery_small.tst5",
+	"rct2.scenery_small.tst3",
+	"rct2.scenery_small.tst2",
+	"rct2.scenery_small.tst1",
+	"rct2.scenery_small.tms1",
+	"rct2.scenery_small.beanst1",
+	"rct2.scenery_small.beanst2"
     ],
     "priority": 2
     },
