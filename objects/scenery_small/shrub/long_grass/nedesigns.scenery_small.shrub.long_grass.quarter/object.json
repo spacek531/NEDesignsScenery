@@ -1,0 +1,29 @@
+{
+    "id": "nedesigns.scenery_small.shrub.long_grass.quarter",
+    "authors": ["K-Dogg"],
+    "version": "1.0",
+    "originalId": "09F55801|KDLNGGRS|03D2C77B",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 4,
+        "removalPrice": -2,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 8,
+        "shape": "1/4",
+	  "sceneryGroup": "rct2.scenery_group.scgshrub",
+        "isStackable": true,
+	  "hasNoSupports": true
+    },
+    "images": [
+	  {"path": "images/0.png", "x": -12, "y": -15},
+	  {"path": "images/0.png", "x": -12, "y": -15},
+	  {"path": "images/0.png", "x": -12, "y": -15},
+	  {"path": "images/0.png", "x": -12, "y": -15}
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Long Grass"
+        }
+    }
+}

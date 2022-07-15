@@ -1,0 +1,29 @@
+{
+    "id": "nedesigns.scenery_small.shrub.cycad.quarter",
+    "authors": ["ToonTowner"],
+    "version": "1.0",
+    "originalId": "09F55801|XXBSHC02|EB5FBA43",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 12,
+        "removalPrice": -6,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 16,
+        "shape": "1/4",
+	  "sceneryGroup": "rct2.scenery_group.scgshrub",
+        "isStackable": true,
+	  "hasNoSupports": true
+    },
+    "images": [
+	  {"path": "images/0.png", "x": -14, "y": -24},
+	  {"path": "images/0.png", "x": -14, "y": -24},
+	  {"path": "images/0.png", "x": -14, "y": -24},
+	  {"path": "images/0.png", "x": -14, "y": -24}
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Cycad"
+        }
+    }
+}
