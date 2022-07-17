@@ -1,5 +1,5 @@
 {
-    "id": "nedesigns.scenery_small.garden.geranium.full_square_large",
+    "id": "nedesigns.scenery_small.garden.lavender.planter_full_square_edged",
     "authors": ["Chris Sawyer", "Simon Foster", "dr dirt"],
     "version": "1.0",
     "originalId": "",
@@ -17,21 +17,22 @@
         "canBeWatered": true,
         "hasPrimaryColour": true,
         "isStackable": true,
+        "hasSecondaryColour": true,
 	  "hasNoSupports": true
     },
     "images": [
-	  {"path": "images/0.png", "x": -32, "y": -14},
-	  {"path": "images/0.png", "x": -32, "y": -14},
-	  {"path": "images/0.png", "x": -32, "y": -14},
-	  {"path": "images/0.png", "x": -32, "y": -14},
-	  {"path": "images/1.png", "x": -32, "y": -13},
-	  {"path": "images/1.png", "x": -32, "y": -13},
-	  {"path": "images/1.png", "x": -32, "y": -13},
-	  {"path": "images/1.png", "x": -32, "y": -13},
-	  {"path": "images/2.png", "x": -32, "y": -10},
-	  {"path": "images/2.png", "x": -32, "y": -10},
-	  {"path": "images/2.png", "x": -32, "y": -10},
-	  {"path": "images/2.png", "x": -32, "y": -10}
+	  {"path": "images/0.png", "x": -32, "y": -10},
+	  {"path": "images/0.png", "x": -32, "y": -10},
+	  {"path": "images/0.png", "x": -32, "y": -10},
+	  {"path": "images/0.png", "x": -32, "y": -10},
+	  {"path": "images/1.png", "x": -32, "y": -8},
+	  {"path": "images/1.png", "x": -32, "y": -8},
+	  {"path": "images/1.png", "x": -32, "y": -8},
+	  {"path": "images/1.png", "x": -32, "y": -8},
+	  {"path": "images/2.png", "x": -32, "y": -8},
+	  {"path": "images/2.png", "x": -32, "y": -8},
+	  {"path": "images/2.png", "x": -32, "y": -8},
+	  {"path": "images/2.png", "x": -32, "y": -8}
     ],
     "strings": {
         "name": {

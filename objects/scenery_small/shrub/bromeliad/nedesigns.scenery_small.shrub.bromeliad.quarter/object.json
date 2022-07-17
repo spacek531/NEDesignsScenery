@@ -1,5 +1,5 @@
 {
-    "id": "nedesigns.scenery_small.shrub.bromelaid.quarter",
+    "id": "nedesigns.scenery_small.shrub.bromeliad.quarter",
     "authors": ["ToonTowner"],
     "version": "1.0",
     "originalId": "09F55801|XXFLWR02|EFFFE990",
@@ -17,10 +17,10 @@
 	  "hasNoSupports": true
     },
     "images": [
-	  {"path": "images/0.png", "x": -17, "y": -19 },
-	  {"path": "images/1.png", "x": -15, "y": -18 },
-	  {"path": "images/2.png", "x": -18, "y": -19 },
-	  {"path": "images/3.png", "x": -17, "y": -19 }
+	  {"path": "images/0.png", "x": -17, "y": -19},
+	  {"path": "images/1.png", "x": -15, "y": -18},
+	  {"path": "images/2.png", "x": -18, "y": -19},
+	  {"path": "images/3.png", "x": -17, "y": -19}
     ],
     "strings": {
         "name": {
