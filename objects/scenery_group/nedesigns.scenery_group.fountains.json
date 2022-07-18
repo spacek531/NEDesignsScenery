@@ -1,0 +1,29 @@
+{
+  "id": "nedesigns.scenery_group.fountains",
+  "authors": ["nedesigns"],
+  "version": "1.0",
+  "originalId": "",
+  "sourceGame": ["custom"],
+  "objectType": "scenery_group",
+  "properties": {
+    "entries": [
+      "nedesigns.scenery_wall.waterfall.16",
+      "rct2.scenery_wall.wallwf32",
+      "rct2.scenery_small.whoriz",
+      "rct2.scenery_small.wdiag",
+      "rct2.scenery_small.ttf",
+      "rct2.scenery_small.wspout",
+      "rct2.scenery_small.tqf",
+      "rct2.scenery_small.tdf",
+      "rct2.scenery_small.tef",
+      "rct2.scenery_small.twf"
+    ],
+    "priority": 5
+    },
+  "images": ["$RCT2:OBJDATA/SCGWATER.DAT[0..1]"],
+  "strings": {
+    "name": {
+      "en-GB": "Fountains (Classic)"
+    }
+  }
+}
