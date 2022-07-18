@@ -7,6 +7,7 @@
   "objectType": "scenery_group",
   "properties": {
     "entries": [
+	"nedesigns.scenery_small.fountain.rapids.quarter_square_half",
 	"nedesigns.scenery_small.fountain.rapids.quarter_square",
       "nedesigns.scenery_wall.waterfall.16",
       "rct2.scenery_wall.wallwf32",
@@ -17,7 +18,8 @@
       "rct2.scenery_small.tqf",
       "rct2.scenery_small.tdf",
       "rct2.scenery_small.tef",
-      "rct2.scenery_small.twf"
+      "rct2.scenery_small.twf",
+	"rct2.footpath_item.jumpfnt1"
     ],
     "priority": 5
     },
