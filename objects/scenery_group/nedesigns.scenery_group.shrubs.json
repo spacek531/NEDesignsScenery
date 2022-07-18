@@ -2,7 +2,7 @@
   "id": "nedesigns.scenery_group.shrubs",
   "authors": ["nedesigns"],
   "version": "1.0",
-  "originalId": "0A188F88|NESHRUB|B460E84E",
+  "originalId": "",
   "sourceGame": ["custom"],
   "objectType": "scenery_group",
   "properties": {
@@ -25,7 +25,7 @@
       "rct2.scenery_small.tjb4",
       "rct2.scenery_small.tjb3",
 	"rct2.scenery_small.tjb1",
-      "nedesigns.scenery_small.shrub.bromelaid.quarter",
+      "nedesigns.scenery_small.shrub.bromeliad.quarter",
       "nedesigns.scenery_small.shrub.jungle_flower.quarter",
       "rct2.scenery_small.tjf",
 	"rct2.scenery_small.tjp2",
