@@ -7,6 +7,7 @@
   "objectType": "scenery_group",
   "properties": {
     "entries": [
+	"nedesigns.scenery_small.fountain.rapids.quarter_square",
       "nedesigns.scenery_wall.waterfall.16",
       "rct2.scenery_wall.wallwf32",
       "rct2.scenery_small.whoriz",
