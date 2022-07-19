@@ -1,0 +1,28 @@
+{
+    "id": "nedesigns.scenery_wall.vine.16_colorable",
+    "authors": ["Amazing Earl", "Mama Bear", "Charlene", "Jo"],
+    "version": "1.0",
+    "originalId": "00000003|DPCAS080|E3CFF458",
+    "sourceGame": "custom",
+    "objectType": "scenery_wall",
+    "properties": {
+        "height": 2,
+        "price": 40,
+	  "isAllowedOnSlope": true,
+	  "hasPrimaryColour": true,
+	  "hasSecondaryColour": true
+    },
+    "images": [
+	  {"path": "images/0.png", "x": -32, "y": -15},
+	  {"path": "images/1.png", "x": -1, "y": -15},
+	  {"path": "images/2.png", "x": -32, "y": -31},
+	  {"path": "images/3.png", "x": -1, "y": -29},
+	  {"path": "images/4.png", "x": -32, "y": -17},
+	  {"path": "images/5.png", "x": -1, "y": -16}
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Vines"
+        }
+    }
+}

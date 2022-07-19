@@ -1,0 +1,29 @@
+{
+    "id": "nedesigns.scenery_small.shrub.swamp_plant.quarter_tall",
+    "authors": ["mkx"],
+    "version": "1.0",
+    "originalId": "00000001|MKNP53  |7F7D274A",
+    "sourceGame": ["custom"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 8,
+        "removalPrice": -4,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 16,
+        "sceneryGroup": "rct2.scenery_group.scgshrub",
+        "shape": "1/4",
+        "isStackable": true,
+	  "hasNoSupports": true
+    },
+    "images": [
+	  {"path": "images/0.png", "x": -13, "y": -22},
+	  {"path": "images/1.png", "x": -13, "y": -24},
+	  {"path": "images/2.png", "x": -14, "y": -22},
+	  {"path": "images/3.png", "x": -11, "y": -24}
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Swamp Plant"
+        }
+    }
+}
