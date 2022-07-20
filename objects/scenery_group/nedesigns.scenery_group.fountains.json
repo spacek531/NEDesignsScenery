@@ -27,7 +27,7 @@
   "images": ["$RCT2:OBJDATA/SCGWATER.DAT[0..1]"],
   "strings": {
     "name": {
-      "en-GB": "Fountains (Classic)"
+      "en-GB": "Classic Fountains"
     }
   }
 }

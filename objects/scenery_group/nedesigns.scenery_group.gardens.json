@@ -42,7 +42,7 @@
   "images": ["$RCT2:OBJDATA/SCGGARDN.DAT[0..1]"],
   "strings": {
     "name": {
-      "en-GB": "Gardens (Classic)"
+      "en-GB": "Classic Gardens"
     }
   }
 }

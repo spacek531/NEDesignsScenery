@@ -9,7 +9,7 @@
         "height": 2,
         "price": 40,
 	  "isAllowedOnSlope": true,
-	  "hasPrimaryColour": true,
+	  "hasPrimaryColour": true
     },
     "images": [
 	  {"path": "images/0.png", "x": -32, "y": -15},
