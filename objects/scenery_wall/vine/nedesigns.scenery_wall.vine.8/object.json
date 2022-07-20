@@ -1,0 +1,27 @@
+{
+    "id": "nedesigns.scenery_wall.vine.8",
+    "authors": ["Mama Bear", "dr dirt"],
+    "version": "1.0",
+    "originalId": "",
+    "sourceGame": "custom",
+    "objectType": "scenery_wall",
+    "properties": {
+        "height": 1,
+        "price": 20,
+	  "isAllowedOnSlope": true,
+	  "hasPrimaryColour": true,
+    },
+    "images": [
+	  {"path": "images/0.png", "x": -32, "y": -6},
+	  {"path": "images/1.png", "x": 0, "y": -8},
+	  {"path": "images/2.png", "x": -32, "y": -20},
+	  {"path": "images/3.png", "x": 0, "y": -21},
+	  {"path": "images/4.png", "x": -32, "y": -10},
+	  {"path": "images/5.png", "x": 0, "y": -10}
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Vines"
+        }
+    }
+}
