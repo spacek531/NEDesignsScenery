@@ -1,0 +1,16 @@
+{
+    "id": "auraspecs.footpath_surface.cobble",
+    "authors": ["Harry Potter Project"],
+    "version": "1.0",
+    "objectType": "footpath_surface",
+    "properties": {},
+    "images": [
+        "$LGX:images.dat[0..51]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Cobblestone Footpath",
+			"nl-NL": "Klinkerpad"
+        }
+    }
+}

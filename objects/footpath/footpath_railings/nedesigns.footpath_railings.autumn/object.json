@@ -1,0 +1,20 @@
+{
+    "id": "auraspecs.footpath_railings.autumn",
+    "authors": [],
+    "version": "1.1",
+    "objectType": "footpath_railings",
+    "properties": {
+		"hasElevatedPathImages": true,
+        "supportType": "pole",
+        "scrollingMode": 0
+    },
+    "images": [
+        "$LGX:images.dat[0..73]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Wood Chip Railings",
+			"nl-NL": "Houtsnipper railing"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "id": "auraspecs.footpath_surface.disney2",
+    "authors": ["Disneyland Project", "Highball"],
+    "version": "1.1",
+    "objectType": "footpath_surface",
+    "properties": {},
+    "images": [
+        "$LGX:images.dat[0..51]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Sleeping Beauty's castle road",
+            "nl-NL": "Doornroosje's kasteel weg"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "id": "auraspecs.footpath_surface.queue_decobr",
+    "authors": ["Gadec"],
+    "version": "1.0",
+    "objectType": "footpath_surface",
+    "properties": {
+        "isQueue": true
+    },
+    "images": [
+        "$LGX:images.dat[0..20]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Brown Deco Queue",
+			"nl-NL": "Bruine wachtrij met decoraties"
+        }
+    }
+}

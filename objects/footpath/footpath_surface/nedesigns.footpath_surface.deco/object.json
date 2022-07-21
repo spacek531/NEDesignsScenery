@@ -1,0 +1,16 @@
+{
+    "id": "auraspecs.footpath_surface.deco",
+    "authors": ["Gadec"],
+    "version": "1.1",
+    "objectType": "footpath_surface",
+    "properties": {},
+    "images": [
+        "$LGX:images.dat[0..51]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Deco Concrete",
+            "nl-NL": "Beton met Decoraties"
+        }
+    }
+}

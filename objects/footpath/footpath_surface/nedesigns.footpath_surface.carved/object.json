@@ -1,0 +1,16 @@
+{
+    "id": "auraspecs.footpath_surface.carved",
+    "authors": ["Lord of the Rings", "Moria"],
+    "version": "1.0",
+    "objectType": "footpath_surface",
+    "properties": {},
+    "images": [
+        "$LGX:images.dat[0..51]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Carved Stone Path",
+			"nl-NL": "Pad van gehouwen stenen"
+        }
+    }
+}
