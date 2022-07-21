@@ -1,1 +1,9 @@
 tools/datnameformatter/bin
+tools/dattoparkobjconverter/DAT/Paths/*.DAT
+tools/dattoparkobjconverter/DAT/Rides/*.DAT
+tools/dattoparkobjconverter/DAT/Scenery/*.DAT
+tools/dattoparkobjconverter/DAT/Themes/*.DAT
+tools/dattoparkobjconverter/parkobj/Paths/*.parkobj
+tools/dattoparkobjconverter/parkobj/Rides/*.parkobj
+tools/dattoparkobjconverter/parkobj/Scenery/*.parkobj
+tools/dattoparkobjconverter/parkobj/Themes/*.parkobj
