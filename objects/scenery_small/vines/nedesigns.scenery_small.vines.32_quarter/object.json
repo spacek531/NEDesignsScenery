@@ -1,0 +1,31 @@
+{
+    "id": "nedesigns.scenery_small.vines.32_quarter",
+    "authors": ["Mama Bear", "dr dirt"],
+    "version": "1.0",
+    "originalId": "",
+    "sourceGame": ["custom"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 6,
+        "removalPrice": -3,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 32,
+        "sceneryGroup": "rct2.scenery_group.scgshrub",
+        "shape": "1/4",
+	  "hasPrimaryColour": true,
+        "isStackable": true,
+	  "isRotatable": true,
+	  "hasNoSupports": true
+    },
+    "images": [
+	  {"path": "images/0.png", "x": -3, "y": -40},
+	  {"path": "images/1.png", "x": -0, "y": -34},
+	  {"path": "images/2.png", "x": -15, "y": -33},
+	  {"path": "images/3.png", "x": -16, "y": -39}
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Vines"
+        }
+    }
+}

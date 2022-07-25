@@ -1,0 +1,29 @@
+{
+    "id": "nedesigns.scenery_small.mushrooms.quarter",
+    "authors": ["mkx"],
+    "version": "1.0",
+    "originalId": "09F55701|MKPL04  |351B5E3A",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 4,
+        "removalPrice": -2,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 8,
+        "shape": "1/4",
+	  "sceneryGroup": "rct2.scenery_group.scgshrub",
+        "isStackable": true,
+	  "hasNoSupports": true
+    },
+    "images": [
+	  {"path": "images/0.png", "x": -9, "y": -11},
+	  {"path": "images/1.png", "x": -9, "y": -9},
+	  {"path": "images/2.png", "x": -8, "y": -10},
+	  {"path": "images/3.png", "x": -13, "y": -9}
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Mushrooms"
+        }
+    }
+}

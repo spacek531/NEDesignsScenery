@@ -1,0 +1,33 @@
+{
+    "id": "nedesigns.scenery_small.castle_block.steps_corner_out",
+    "authors": ["Simon Foster", "Chris Sawyer", "ToonTowner"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "originalId":"09F55701|XXSTCC02|DD4B6E68",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 5,
+        "removalPrice": -3,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 8,
+        "shape": "1/4+D",
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -16, "y": -15 },
+        { "path": "images/1.png", "x": -16, "y": -9 },
+        { "path": "images/2.png", "x": -16, "y": -8 },
+        { "path": "images/3.png", "x": -16, "y": -9 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Castle Steps"
+        }
+    }
+}

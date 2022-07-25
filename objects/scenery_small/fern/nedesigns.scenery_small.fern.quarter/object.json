@@ -1,0 +1,29 @@
+{
+    "id": "nedesigns.scenery_small.fern.quarter",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "09F55701|FERN3   |35CBCF47",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 8,
+        "removalPrice": -4,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 8,
+        "shape": "1/4",
+        "isStackable": true,
+	  "hasNoSupports": true,
+	  "sceneryGroup": "rct2.scenery_group.scgshrub"
+    },
+    "images": [
+	  {"path": "images/0.png", "x": -16, "y": -15},
+	  {"path": "images/1.png", "x": -17, "y": -15},
+	  {"path": "images/2.png", "x": -16, "y": -16},
+	  {"path": "images/3.png", "x": -17, "y": -15}
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Fern"
+        }
+    }
+}
