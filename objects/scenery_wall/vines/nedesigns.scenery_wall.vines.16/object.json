@@ -7,7 +7,7 @@
     "objectType": "scenery_wall",
     "properties": {
         "height": 2,
-        "price": 40,
+        "price": 12,
 	  "cursor": "CURSOR_TREE_DOWN",
 	  "isAllowedOnSlope": true,
 	  "hasPrimaryColour": true,
