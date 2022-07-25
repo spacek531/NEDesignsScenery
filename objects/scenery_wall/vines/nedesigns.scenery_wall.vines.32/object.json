@@ -1,8 +1,8 @@
 {
-    "id": "nedesigns.scenery_wall.vine.32_colorable",
-    "authors": ["Mama Bear"],
+    "id": "nedesigns.scenery_wall.vines.32",
+    "authors": ["Mama Bear", "dr dirt"],
     "version": "1.0",
-    "originalId": "00000003|DPCAS079|1408F064",
+    "originalId": "",
     "sourceGame": "custom",
     "objectType": "scenery_wall",
     "properties": {
@@ -10,7 +10,7 @@
         "price": 60,
 	  "isAllowedOnSlope": true,
 	  "hasPrimaryColour": true,
-	  "hasSecondaryColour": true
+	  "sceneryGroup": "rct2.scenery_group.scgshrub"
     },
     "images": [
 	  {"path": "images/0.png", "x": -32, "y": -31},

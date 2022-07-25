@@ -1,5 +1,5 @@
 {
-    "id": "nedesigns.scenery_wall.vine.16",
+    "id": "nedesigns.scenery_wall.vines.16",
     "authors": ["Mama Bear", "dr dirt"],
     "version": "1.0",
     "originalId": "",
@@ -9,7 +9,8 @@
         "height": 2,
         "price": 40,
 	  "isAllowedOnSlope": true,
-	  "hasPrimaryColour": true
+	  "hasPrimaryColour": true,
+	  "sceneryGroup": "rct2.scenery_group.scgshrub"
     },
     "images": [
 	  {"path": "images/0.png", "x": -32, "y": -15},

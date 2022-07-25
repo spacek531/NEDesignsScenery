@@ -1,5 +1,5 @@
 {
-    "id": "nedesigns.scenery_wall.vine.16_colorable",
+    "id": "nedesigns.scenery_wall.vines.16_colorable",
     "authors": ["Mama Bear"],
     "version": "1.0",
     "originalId": "00000003|DPCAS080|E3CFF458",
@@ -10,7 +10,8 @@
         "price": 40,
 	  "isAllowedOnSlope": true,
 	  "hasPrimaryColour": true,
-	  "hasSecondaryColour": true
+	  "hasSecondaryColour": true,
+	  "sceneryGroup": "rct2.scenery_group.scgshrub"
     },
     "images": [
 	  {"path": "images/0.png", "x": -32, "y": -15},
