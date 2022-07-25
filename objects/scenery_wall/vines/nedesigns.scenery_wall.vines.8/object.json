@@ -8,6 +8,7 @@
     "properties": {
         "height": 1,
         "price": 20,
+	  "cursor": "CURSOR_TREE_DOWN",
 	  "isAllowedOnSlope": true,
 	  "hasPrimaryColour": true,
 	  "sceneryGroup": "rct2.scenery_group.scgshrub"
