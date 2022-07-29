@@ -1,0 +1,32 @@
+{
+    "id": "nedesigns.scenery_small.flower_box.full",
+    "authors": ["Fisherman"],
+    "version": "1.0",
+    "originalId": "09F55901|FMFLRBOX|B75DFC0A",
+    "sourceGame": ["custom"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 10,
+        "removalPrice": -5,
+        "cursor": "CURSOR_FLOWER_DOWN",
+        "height": 8,
+        "shape": "2/4",
+	  "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasSecondaryColour": true,
+	  "hasNoSupports": true,
+	  "sceneryGroup": "rct2.scenery_group.scggardn"
+    },
+    "images": [
+	  {"path": "images/0.png", "x": -3, "y": -9},
+	  {"path": "images/1.png", "x": -1, "y": 5},
+	  {"path": "images/2.png", "x": -24, "y": 4},
+	  {"path": "images/3.png", "x": -26, "y": -8}
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Flower Box"
+        }
+    }
+}
