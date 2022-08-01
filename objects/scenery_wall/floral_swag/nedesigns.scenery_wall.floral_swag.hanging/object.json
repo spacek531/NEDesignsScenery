@@ -2,7 +2,7 @@
     "id": "nedesigns.scenery_wall.floral_swag.hanging",
     "authors": ["Fisherman"],
     "version": "1.0",
-    "originalId": "",
+    "originalId": "09F55A03|FMFLSWG1|22C115EE",
     "sourceGame": "custom",
     "objectType": "scenery_wall",
     "properties": {
@@ -11,15 +11,16 @@
 	  "cursor": "CURSOR_FLOWER_DOWN",
 	  "isAllowedOnSlope": true,
 	  "hasPrimaryColour": true,
+	  "hasSecondaryColour": true,
 	  "sceneryGroup": "rct2.scenery_group.scggardn"
     },
     "images": [
 	  {"path": "images/0.png", "x": -32, "y": -16},
 	  {"path": "images/1.png", "x": -2, "y": -15},
-	  {"path": "images/2.png", "x": -32, "y": -25},
-	  {"path": "images/3.png", "x": -2, "y": -27},
-	  {"path": "images/4.png", "x": -32, "y": -16},
-	  {"path": "images/5.png", "x": -2, "y": -19}
+	  {"path": "images/2.png", "x": -32, "y": -32},
+	  {"path": "images/3.png", "x": -2, "y": -32},
+	  {"path": "images/4.png", "x": -32, "y": -17},
+	  {"path": "images/5.png", "x": -2, "y": -16}
     ],
     "strings": {
         "name": {
