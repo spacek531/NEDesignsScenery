@@ -1,4 +1,4 @@
-# NEDesigns Custom Scenery Patch Project
+# Custom Scenery Patch Project
 It is obvious to all NEDesigns users that custom scenery is a wild west. There are no standards for object design, and this is most clear in the realm of quarter tile scenery, in particular trims and other decorative elements.
 
 Trims and decorative elements often do not take up a full quarter tile, and thus are less-than-quarter-tile scenery. They are often biased to one edge or corner of the quarter tile, which causes problems when objects are constructed improperly. The same idea applies to scenery that occupies a whole tile - they too can be biased to one corner or edge and brings with it the same problems for less-than-full-tile scenery.
