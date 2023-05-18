@@ -1,9 +1,15 @@
 {
-    "id": "nedesigns.scenery_small.block.brick.quarter_square",
+    "id": "patchproj.scenery_small.block.castle.steps",
     "authors": ["Simon Foster", "ToonTowner"],
     "version": "1.0",
     "sourceGame": "custom",
-    "originalId":"09F55901|XXBQBR23|7B27D4E3",
+    "sourceObject":"-09F55701|XXSTCC01|AAB3D65C",
+    "replaces":[
+        {
+            "originalId":"09F55701|XXSTCC01|AAB3D65C",
+            "rotation":1
+        }
+    ],
     "objectType": "scenery_small",
     "properties": {
         "price": 5,
@@ -21,14 +27,14 @@
         "allowSupportsAbove": true
     },
     "images": [
-        { "path": "images/0.png", "x": -16, "y": -15 },
-        { "path": "images/0.png", "x": -16, "y": -15 },
-        { "path": "images/0.png", "x": -16, "y": -15 },
+        { "path": "images/1.png", "x": -16, "y": -15 },
+        { "path": "images/2.png", "x": -16, "y": -9 },
+        { "path": "images/3.png", "x": -16, "y": -9 },
         { "path": "images/0.png", "x": -16, "y": -15 }
     ],
     "strings": {
         "name": {
-            "en-GB": "Brick Base Block"
+            "en-GB": "Castle Steps"
         }
     }
 }

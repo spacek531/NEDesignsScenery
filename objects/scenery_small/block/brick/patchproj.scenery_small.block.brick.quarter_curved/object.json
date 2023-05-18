@@ -1,9 +1,9 @@
 {
-    "id": "nedesigns.scenery_small.block.brick.quarter_diagonal",
-    "authors": ["Simon Foster", "Kumba"],
+    "id": "patchproj.scenery_small.block.brick.quarter_curved",
+    "authors": ["Simon Foster", "ToonTowner"],
     "version": "1.0",
     "sourceGame": "custom",
-    "originalId":"09F55901|1KBRKDIG|1ADE6FCB",
+    "sourceObject":"09F55901|XXBQBR24|DE1DD201",
     "objectType": "scenery_small",
     "properties": {
         "price": 4,
@@ -21,8 +21,8 @@
     },
     "images": [
         { "path": "images/0.png", "x": -16, "y": -15 },
-        { "path": "images/1.png", "x": 0, "y": -15 },
-        { "path": "images/2.png", "x": -16, "y": -8 },
+        { "path": "images/1.png", "x": -6, "y": -15 },
+        { "path": "images/2.png", "x": -16, "y": -11 },
         { "path": "images/3.png", "x": -16, "y": -15 }
     ],
     "strings": {
