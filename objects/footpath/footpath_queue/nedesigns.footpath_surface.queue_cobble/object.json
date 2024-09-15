@@ -1,0 +1,18 @@
+{
+    "id": "auraspecs.footpath_surface.queue_cbble",
+    "authors": ["Harry Potter Project"],
+    "version": "1.0",
+    "objectType": "footpath_surface",
+    "properties": {
+        "isQueue": true
+    },
+    "images": [
+        "$LGX:images.dat[0..20]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Cobblestone Queue",
+			"nl-NL": "Klinkerwachtrij"
+        }
+    }
+}

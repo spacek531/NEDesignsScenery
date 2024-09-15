@@ -1,0 +1,20 @@
+{
+    "id": "auraspecs.footpath_railings.stars",
+    "authors": ["ToonTowner"],
+    "version": "1.1",
+    "objectType": "footpath_railings",
+    "properties": {
+        "hasElevatedPathImages": true,
+        "supportType": "box",
+        "scrollingMode": 0
+    },
+    "images": [
+        "$LGX:images.dat[0..95]"
+    ],
+    "strings": {
+        "name": {
+      "en-GB": "Golden Railing",
+      "nl-NL": "Gouden Railing"
+        }
+    }
+}

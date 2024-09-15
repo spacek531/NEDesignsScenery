@@ -1,0 +1,18 @@
+{
+    "id": "auraspecs.footpath_surface.queue_tile",
+    "authors": ["Buggy"],
+    "version": "1.1",
+    "objectType": "footpath_surface",
+    "properties": {
+        "isQueue": true
+    },
+    "images": [
+        "$LGX:images.dat[0..20]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Dark Red Queue",
+            "nl-NL": "Donkerrode Wachtrij"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "id": "auraspecs.footpath_surface.queue_carved",
+    "authors": ["Lord of the Rings Project","Moria"],
+    "version": "1.0",
+    "objectType": "footpath_surface",
+    "properties": {
+        "isQueue": true
+    },
+    "images": [
+        "$LGX:images.dat[0..20]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Carved Stone Queue",
+			"nl-NL": "Wachtrij van gehouwen stenen" 
+        }
+    }
+}
