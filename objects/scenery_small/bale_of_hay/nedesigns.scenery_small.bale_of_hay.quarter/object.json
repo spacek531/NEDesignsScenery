@@ -1,0 +1,29 @@
+{
+    "id": "nedesigns.scenery_small.bale_of_hay.quarter",
+    "authors": ["mkx"],
+    "version": "1.0",
+    "originalId": "00000001|MKNP39  |4FFB8C8E",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 8,
+        "removalPrice": -4,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 24,
+        "shape": "1/4",
+	  "sceneryGroup": "rct2.scenery_group.scgshrub",
+        "isStackable": true,
+	  "hasNoSupports": true
+    },
+    "images": [
+	  {"path": "images/0.png", "x": -16, "y": -32},
+	  {"path": "images/1.png", "x": -16, "y": -32},
+	  {"path": "images/2.png", "x": -15, "y": -32},
+	  {"path": "images/3.png", "x": -15, "y": -32}
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Bale of Hay"
+        }
+    }
+}

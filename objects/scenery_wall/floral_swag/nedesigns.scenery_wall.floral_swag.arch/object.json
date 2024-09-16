@@ -1,0 +1,31 @@
+{
+    "id": "nedesigns.scenery_wall.floral_swag.arch",
+    "authors": ["Fisherman"],
+    "version": "1.0",
+    "originalId": "09F55A03|FMFLSWG2|2B019B94",
+    "sourceGame": "custom",
+    "objectType": "scenery_wall",
+    "properties": {
+        "height": 2,
+        "price": 12,
+	  "cursor": "CURSOR_FLOWER_DOWN",
+	  "isAllowedOnSlope": true,
+	  "hasPrimaryColour": true,
+	  "hasSecondaryColour": true,
+	  "hasTertiaryColour": true,
+	  "sceneryGroup": "rct2.scenery_group.scggardn"
+    },
+    "images": [
+	  {"path": "images/0.png", "x": -31, "y": -11},
+	  {"path": "images/1.png", "x": -1, "y": -10},
+	  {"path": "images/2.png", "x": -31, "y": -21},
+	  {"path": "images/3.png", "x": -1, "y": -20},
+	  {"path": "images/4.png", "x": -31, "y": -17},
+	  {"path": "images/5.png", "x": -1, "y": -16}
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Floral Swag"
+        }
+    }
+}

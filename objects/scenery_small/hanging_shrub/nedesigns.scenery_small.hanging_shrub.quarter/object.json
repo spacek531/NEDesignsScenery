@@ -1,0 +1,35 @@
+{
+    "id": "nedesigns.scenery_small.hanging_shrub.quarter",
+    "authors": ["dr dirt"],
+    "version": "1.0",
+    "originalId": "0A188C01|GREENE2 |300FD496",
+    "sourceGame": ["custom"],
+    "objectType": "scenery_small",
+    "replaces":[
+        {
+            "originalId":"0A188C01|GREENE2 |300FD496",
+            "rotation": 2
+        }],
+    "properties": {
+        "price": 12,
+        "removalPrice": -6,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 40,
+        "sceneryGroup": "rct2.scenery_group.scgshrub",
+        "shape": "1/4",
+        "isStackable": true,
+	  "isRotatable": true,
+	  "hasNoSupports": true
+    },
+    "images": [
+	  {"path": "images/0.png", "x": -5, "y": -47},
+	  {"path": "images/1.png", "x": -5, "y": -40},
+	  {"path": "images/2.png", "x": -12, "y": -38},
+	  {"path": "images/3.png", "x": -18, "y": -48}
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Hanging Shrub"
+        }
+    }
+}

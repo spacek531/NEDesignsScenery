@@ -1,0 +1,58 @@
+{
+    "id": "nedesigns.scenery_small.lavender.planter_full_square_edged",
+    "authors": ["Chris Sawyer", "Simon Foster", "dr dirt"],
+    "version": "1.0",
+    "originalId": "",
+    "sourceGame": ["custom"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 12,
+        "removalPrice": 5,
+        "cursor": "CURSOR_FLOWER_DOWN",
+        "height": 8,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "canWither": true,
+        "canBeWatered": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasSecondaryColour": true,
+	  "hasNoSupports": true,
+	  "sceneryGroup": "rct2.scenery_group.scggardn"
+    },
+    "images": [
+	  {"path": "images/0.png", "x": -32, "y": -10},
+	  {"path": "images/0.png", "x": -32, "y": -10},
+	  {"path": "images/0.png", "x": -32, "y": -10},
+	  {"path": "images/0.png", "x": -32, "y": -10},
+	  {"path": "images/1.png", "x": -32, "y": -8},
+	  {"path": "images/1.png", "x": -32, "y": -8},
+	  {"path": "images/1.png", "x": -32, "y": -8},
+	  {"path": "images/1.png", "x": -32, "y": -8},
+	  {"path": "images/2.png", "x": -32, "y": -8},
+	  {"path": "images/2.png", "x": -32, "y": -8},
+	  {"path": "images/2.png", "x": -32, "y": -8},
+	  {"path": "images/2.png", "x": -32, "y": -8}
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Gardens",
+            "fr-FR": "Jardins",
+            "de-DE": "Beete",
+            "es-ES": "Jardines",
+            "it-IT": "Giardini",
+            "nl-NL": "Bloemen",
+            "sv-SE": "Rabatter",
+            "ko-KR": "꽃",
+            "zh-CN": "花园",
+            "zh-TW": "花園",
+            "pt-BR": "Jardins",
+            "cs-CZ": "Zahrady",
+            "ja-JP": "花壇",
+            "pl-PL": "Klomb",
+            "ru-RU": "Клумба",
+            "eo-ZZ": "Ĝardenoj"
+        }
+    }
+}

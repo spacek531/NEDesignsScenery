@@ -1,0 +1,61 @@
+{
+  "id": "nedesigns.scenery_group.shrubs",
+  "authors": ["nedesigns"],
+  "version": "1.0",
+  "originalId": "",
+  "sourceGame": ["custom"],
+  "objectType": "scenery_group",
+  "properties": {
+    "entries": [
+	"nedesigns.scenery_small.lily.quarter",
+	"nedesigns.scenery_small.swamp_plant.quarter_tall",
+      "nedesigns.scenery_small.swamp_plant.quarter",
+	"nedesigns.scenery_small.long_grass.quarter",
+      "rct2.scenery_small.tbr",
+      "rct2.scenery_small.tsh3",
+      "rct2.scenery_small.tsh5",
+      "rct2.scenery_small.tsh2",
+	"rct2.scenery_small.tsh0",
+	"nedesigns.scenery_small.fruit_bush.light_quarter",
+	"nedesigns.scenery_small.fruit_bush.dark_quarter",
+      "rct2.scenery_small.tsh4",
+      "rct2.scenery_small.tsh1",
+	"rct2.scenery_small.fern1",
+	"nedesigns.scenery_small.fern.quarter",
+      "rct2.scenery_small.tjb3",
+      "rct2.scenery_small.tjb4",
+      "rct2.scenery_small.tjb2",
+	"rct2.scenery_small.tjb1",
+	"rct2.scenery_small.tjf",
+      "nedesigns.scenery_small.jungle_flower.quarter",
+      "nedesigns.scenery_small.bromeliad.quarter",
+	"rct2dlc.scenery_small.pandagr",
+	"nedesigns.scenery_small.bale_of_hay.quarter",
+      "rct2.scenery_small.tbc",
+      "rct2.scenery_small.tsc",
+	"nedesigns.scenery_small.cycad.quarter",
+	"rct2.scenery_small.tst1",
+	"rct2.scenery_small.tst2",
+	"rct2.scenery_small.tst3",
+	"rct2.scenery_small.tst5",
+	"rct2.scenery_small.tst4",
+	"rct2.scenery_small.tms1",
+	"nedesigns.scenery_small.mushrooms.quarter",
+	"rct2.scenery_small.beanst2",
+	"rct2.scenery_small.beanst1",
+	"rct2.scenery_small.tjp1",
+	"rct2.scenery_small.tjp2",
+	"nedesigns.scenery_small.vines.32_quarter",
+	"nedesigns.scenery_wall.vines.32",
+	"nedesigns.scenery_wall.vines.16",
+	"nedesigns.scenery_wall.vines.8"
+    ],
+    "priority": 2
+    },
+  "images": ["$RCT2:OBJDATA/SCGSHRUB.DAT[0..1]"],
+  "strings": {
+    "name": {
+      "en-GB": "Classic Shrubs"
+    }
+  }
+}
